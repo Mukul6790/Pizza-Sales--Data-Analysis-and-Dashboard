@@ -38,7 +38,7 @@ Process
 
 Dashboards
 
-Home Page – KPI Overview and Sales Trends
+Home Page – KPI Overview and Sales Trends - https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/Power%20bi%20Pizza%20Sales%20Screenshot%201.png
  
 Best and Worst Sellers Page
  
