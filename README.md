@@ -1,63 +1,91 @@
-Pizza Sales Analysis Project – Power BI and SQL
+# Pizza Sales Analysis – Power BI & SQL
 
-This project is a detailed analysis of pizza sales using Power BI and SQL. The aim was to identify sales trends, evaluate product performance, and generate insights that could support decision-making in a food business setting.
+## Objective
 
-Objective
+The goal of this project was to explore and visualize key aspects of pizza sales to answer critical business questions:
 
-The goal of this project was to explore and visualize key aspects of pizza sales to answer common business questions like which pizzas sell the most, what days and months drive higher sales, and how customer buying behaviour varies. The dashboard helps turn raw data into valuable insights
+- Which pizzas are the top sellers?
+- Which days and months generate the highest revenue?
+- How does customer buying behavior vary?
 
-Dataset
+The dashboard transforms raw sales data into actionable business insights for food service decision-making.
 
-Dataset Link: https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/pizza_sales.csv
+---
 
-It includes information such as order ID, date, pizza name, size, category, quantity, and price.
+## Dataset
 
-KPIs Tracked
+*Source*: [pizza_sales.csv](https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/pizza_sales.csv)
 
-•	Total Revenue
+The dataset includes:
+- Order ID  
+- Order date  
+- Pizza name  
+- Size  
+- Category  
+- Quantity  
+- Price  
 
-•	Average Order Value
+---
 
-•	Total Pizzas Sold
+## KPIs Tracked
 
-•	Total Orders
+- Total Revenue  
+- Average Order Value  
+- Total Pizzas Sold  
+- Total Orders  
+- Average Pizzas per Order  
 
-•	Average Pizzas per Order
+These KPIs summarize overall sales and operational performance.
 
-These KPIs summarize overall business performance.
+---
 
-Process
+## Process
 
-•	Cleaned and prepared the raw data using SQL queries to handle missing values and format columns correctly.
+### 1. Data Cleaning (SQL)
+- Removed missing values
+- Formatted date and numeric columns
+- Filtered and standardized raw entries
 
-•	Calculated total revenue and other important values using SQL before importing into Power BI.
+### 2. Preprocessing & Calculations
+- Calculated total revenue, order values, and other metrics using SQL
+- Exported cleaned data for visualization
 
-•	Imported the cleaned dataset into Power BI and created custom measures using DAX.
+### 3. Power BI Visualization
+- Created custom DAX measures for dynamic KPIs and trends
+- Designed interactive dashboards to analyze performance and behavior
 
-•	Designed two dashboards to visualize KPIs, sales trends, and best or worst-performing products.
+---
 
-Dashboards
+## Dashboards
 
-Home Page – KPI Overview and Sales Trends - https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/Power%20bi%20Pizza%20Sales%20Screenshot%201.png
- 
-Best and Worst Sellers Page - https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/Power%20bi%20Pizza%20Sales%20Screenshot%202.png
- 
-Project Insights
+- *Home Page – KPI Overview & Sales Trends*  
+  ![Home Dashboard](https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/Power%20bi%20Pizza%20Sales%20Screenshot%201.png)
 
-•	Sales peak on weekends, especially Fridays and Saturdays.
+- *Best & Worst Sellers Page*  
+  ![Performance Dashboard](https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/Power%20bi%20Pizza%20Sales%20Screenshot%202.png)
 
-•	The classic pizza category leads in both revenue and total orders.
+---
 
-•	Large and regular pizza sizes contribute the most to total sales.
+## Key Insights
 
-•	The Thai Chicken and Barbecue Chicken pizzas are among the top revenue generators.
+- Sales peak on *Fridays and Saturdays*
+- The *Classic* pizza category leads in revenue and volume
+- *Large* and *Regular* pizzas are the most popular sizes
+- *Thai Chicken* and *Barbecue Chicken* are top-selling pizzas
+- *Brie Carre* and *Spinach* pizzas are the lowest-performing
+- Order volume peaks in *January* and *July*
 
-•	The Brie Carre and Spinach Pizzas perform the weakest in terms of both quantity and revenue.
+---
 
-•	Monthly order volumes are highest in January and July.
+## Tools & Technologies Used
 
-Conclusion
+- *SQL* – For data cleaning, transformation, and pre-aggregation  
+- *Power BI* – For data modeling, DAX-based calculations, and dashboard design  
+- *DAX (Data Analysis Expressions)* – To create dynamic KPIs and measures  
+- *CSV (Comma-Separated Values)* – Format used for raw input data  
 
-This project helped in transforming raw sales data into meaningful business insights. By identifying high-performing products, busy sales periods, and customer preferences, it supports informed business planning and decision-making. Power BI and SQL together made it possible to process, analyze, and present data in a visually impactful way.
+---
 
+## Conclusion
 
+This project highlights the ability to transform raw sales data into meaningful business intelligence using SQL and Power BI. By identifying top-performing products, customer preferences, and peak sales periods, this dashboard helps stakeholders make informed, data-driven decisions.
