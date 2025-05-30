@@ -1,6 +1,6 @@
-Pizza Sales Analysis Project – Power BI and SQL
+##Pizza Sales Analysis Project – Power BI and SQL
 This project is a detailed analysis of pizza sales using Power BI and SQL. The aim was to identify sales trends, evaluate product performance, and generate insights that could support decision-making in a food business setting.
-Objective
+##Objective
 The goal of this project was to explore and visualize key aspects of pizza sales to answer common business questions like which pizzas sell the most, what days and months drive higher sales, and how customer buying behaviour varies. The dashboard helps turn raw data into valuable insights
 Dataset
 Dataset Link:- <a href= "C:\Users\napeb\Downloads\pizza_sales.csv"
