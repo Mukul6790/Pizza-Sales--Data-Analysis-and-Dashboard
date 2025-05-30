@@ -8,7 +8,7 @@ The goal of this project was to explore and visualize key aspects of pizza sales
 
 Dataset
 
-Dataset Link: C:\Users\napeb\Downloads\pizza_sales.csv
+Dataset Link: https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/pizza_sales.csv
 
 It includes information such as order ID, date, pizza name, size, category, quantity, and price.
 
