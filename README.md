@@ -59,10 +59,10 @@ These KPIs summarize overall sales and operational performance.
 ## Dashboards
 
 - *Home Page – KPI Overview & Sales Trends*  
-  ![Home Dashboard](https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/Power%20bi%20Pizza%20Sales%20Screenshot%201.png)
+  ![Home Dashboard](https://github.com/mukul0030/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/Power%20bi%20Pizza%20Sales%20Screenshot%201.png)
 
 - *Best & Worst Sellers Page*  
-  ![Performance Dashboard](https://github.com/Mukul6790/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/Power%20bi%20Pizza%20Sales%20Screenshot%202.png)
+  ![Performance Dashboard](https://github.com/mukul0030/Pizza-Sales--Data-Analysis-and-Dashboard/blob/main/Power%20bi%20Pizza%20Sales%20Screenshot%202.png)
 
 ---
 
